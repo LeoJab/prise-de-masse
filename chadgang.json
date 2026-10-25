@@ -1,0 +1,10 @@
+{
+  "title": "Prise de Masse 2048",
+  "description": "Le 2048 version salle de sport : fusionne les poids jusqu'au GIGACHAD. Le plus gros score de la bande gagne.",
+  "author": "ChadGang",
+  "category": "Solo",
+  "emoji": "🏋️",
+  "image": "cover.png",
+  "classement": "score",
+  "unite": "pts"
+}
